@@ -1,0 +1,5 @@
+/Users/mera/documents/tuition/4semester/PP/lab1/build/CMakeFiles/matrix_mult.dir
+/Users/mera/documents/tuition/4semester/PP/lab1/build/CMakeFiles/run.dir
+/Users/mera/documents/tuition/4semester/PP/lab1/build/CMakeFiles/verify.dir
+/Users/mera/documents/tuition/4semester/PP/lab1/build/CMakeFiles/edit_cache.dir
+/Users/mera/documents/tuition/4semester/PP/lab1/build/CMakeFiles/rebuild_cache.dir
