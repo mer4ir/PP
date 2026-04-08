@@ -1,0 +1,4 @@
+/Users/mera/Documents/tuition/4semester/PP/lab3/build/CMakeFiles/matrix_mult_mpi.dir
+/Users/mera/Documents/tuition/4semester/PP/lab3/build/CMakeFiles/benchmark_mpi.dir
+/Users/mera/Documents/tuition/4semester/PP/lab3/build/CMakeFiles/edit_cache.dir
+/Users/mera/Documents/tuition/4semester/PP/lab3/build/CMakeFiles/rebuild_cache.dir
