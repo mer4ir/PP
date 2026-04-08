@@ -1,0 +1,4 @@
+/Users/mera/Documents/tuition/4semester/PP/lab2/build/CMakeFiles/matrix_mult_omp.dir
+/Users/mera/Documents/tuition/4semester/PP/lab2/build/CMakeFiles/benchmark_omp.dir
+/Users/mera/Documents/tuition/4semester/PP/lab2/build/CMakeFiles/edit_cache.dir
+/Users/mera/Documents/tuition/4semester/PP/lab2/build/CMakeFiles/rebuild_cache.dir
