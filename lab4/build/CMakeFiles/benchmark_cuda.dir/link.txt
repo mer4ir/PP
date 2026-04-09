@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/benchmark_cuda.dir/benchmark_cuda_generated_benchmark_cuda.cu.o -o benchmark_cuda  /usr/local/cuda/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a

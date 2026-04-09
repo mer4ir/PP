@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/matrix_mult_cuda.dir/matrix_mult_cuda_generated_matrix_mult_cuda.cu.o -o matrix_mult_cuda  /usr/local/cuda/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a
