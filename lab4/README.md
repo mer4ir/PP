@@ -1,5 +1,7 @@
 # Лабораторная работа №4: Параллельное умножение матриц с CUDA
 
+## Для запуска использовал google colab, так как у меня нету устройства на Nvidia
+
 ## Конфигурация тестовой системы
 - **GPU:** Tesla T4 (2560 CUDA Cores, 16 GB VRAM)
 - **CPU:** Intel Xeon (2.2 GHz)
@@ -93,19 +95,3 @@
 4. **Масштабируемость:** Ускорение растет с размером задачи (нет предела)
 
 5. **Верификация:** Все результаты проверены, ошибок нет
-
----
-
-## Верификация
-
-```bash
-$ ./matrix_mult_cuda -t 100
-Size: 100x100
-CPU Time: 15.2 ms
-GPU Time: 0.08 ms
-Speedup: 190x
-
-$ python3 verify_cuda.py verify_A.txt verify_B.txt verify_C.txt
-=== VERIFICATION ===
-Matrix size: 100x100
-RESULT: PASSED
