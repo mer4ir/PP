@@ -85,5 +85,5 @@ S = 1 / (0.05 + 0.95/8) = 5.93x
 
 ## Запуск на суперкомпьютере
 
-mpicxx matrix_mult_mpi.cpp -o matrix_mult_mpi
-sbatch startMPI.pbs
+$ mpicxx matrix_mult_mpi.cpp -o matrix_mult_mpi
+$ sbatch startMPI.pbs
